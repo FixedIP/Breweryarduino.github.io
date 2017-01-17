@@ -1,7 +1,7 @@
 * {margin:0;padding:0;}
 body {background-color:#000000;font-family:'Arial';}
 
-#page {width:800px;margin:0 auto;}
+#page {width:1000px;margin:0 auto;}
 
 .header {height:200px;}
 .imgt{height: 500px;}
@@ -9,7 +9,7 @@ body {background-color:#000000;font-family:'Arial';}
 	height: 500px;
  position: relative;
   display: inline-block;
-    clear: both;
+   <!-- clear: both; -->
 }
 .content h4 {position: absolute;
 color: lime;}
@@ -24,7 +24,7 @@ left: 30%;
 	height: 500px;
  position: relative;
   display: inline-block;
-    clear: both;
+   <!-- clear: both; -->
 }
 .video p {position: absolute;
 color: lime;}
@@ -37,7 +37,7 @@ color: lime;}
 	height: 500px;
  position: relative;
   display: inline-block;
-    clear: both;
+  <!-- clear: both; -->
 }
 .button iframe {position: absolute;
 color: lime;}
@@ -55,7 +55,7 @@ color: lime;}
 #raz {
   position: relative;
   display: inline-block;
-    clear: both;
+   <!-- clear: both; -->
 }
 #raz a {
   position: absolute;
@@ -97,7 +97,7 @@ color: lime;}
 #donlad  {
   position: relative;
   display: inline-block;
-  clear: both;
+  <!-- clear: both; -->
 }
 #donlad a {
   position: absolute;
