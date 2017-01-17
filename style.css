@@ -1,0 +1,132 @@
+* {margin:0;padding:0;}
+body {background-color:#000000;font-family:'Arial';}
+
+#page {width:800px;margin:0 auto;}
+
+.header {height:200px;}
+.imgt{height: 500px;}
+.content{
+	height: 500px;
+ position: relative;
+  display: inline-block;
+    clear: both;
+}
+.content h4 {position: absolute;
+color: lime;}
+.content h4 
+{
+left: 30%;
+  top: 50%;
+  width: 100%;
+  height: 10%;
+}
+.video{
+	height: 500px;
+ position: relative;
+  display: inline-block;
+    clear: both;
+}
+.video p {position: absolute;
+color: lime;}
+.video p {
+  top: 30%;
+  width: 100%;
+  height: 100%;
+}
+.button{
+	height: 500px;
+ position: relative;
+  display: inline-block;
+    clear: both;
+}
+.button iframe {position: absolute;
+color: lime;}
+.button iframe {
+	left: 28%;
+  top: 50%;
+  width: 100%;
+  height: 100%;
+}
+
+.asite {height: 100px;}
+
+
+.footer {height: 100px}
+#raz {
+  position: relative;
+  display: inline-block;
+    clear: both;
+}
+#raz a {
+  position: absolute;
+  
+}
+#raz a:nth-of-type(1) {
+  left: 150px;
+  top: 30px;
+  width: 120px;
+  height: 50px;
+}
+#raz a:nth-of-type(2) {
+  left: 270px;
+  top: 30px;
+  width: 273px;
+  height: 50px;
+}
+#raz a:nth-of-type(3) {
+  left: 543px;
+  top: 30px;
+  width: 100px;
+  height: 50px;
+}
+#raz a:nth-of-type(4) {
+  left: 643px;
+  top: 30px;
+  width: 75px;
+  height: 50px;
+}
+#raz a:nth-of-type(5) {
+  left: 718px;
+  top: 30px;
+  width: 130px;
+  height: 50px;
+}
+#raz a:hover {
+  background: rgba(0,255,255,.3);
+}
+#donlad  {
+  position: relative;
+  display: inline-block;
+  clear: both;
+}
+#donlad a {
+  position: absolute;
+  
+}
+#donlad a:nth-of-type(1) {
+left: 710px;
+  top: 160px;
+  width: 117px;
+  height: 20px;
+}
+#donlad a:nth-of-type(2) {
+  left: 443px;
+  top: 225px;
+  width: 370px;
+  height: 20px;
+}
+#donlad a:nth-of-type(3) {
+  left: 493px;
+  top: 245px;
+  width: 355px;
+  height: 20px;
+}
+#donlad a:nth-of-type(4) {
+  left: 419px;
+  top: 335px;
+  width: 210px;
+  height: 66px;
+}
+#donlad a:hover {
+  background: rgba(0,255,255,.3);
+}
