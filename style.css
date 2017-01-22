@@ -189,3 +189,18 @@ left: 400px;
 #ali a:hover {
   background: rgba(0,255,255,.3);
 }
+.chetchic{
+	clear: both;
+	height: 100px;
+ position: relative;
+  display: inline-block;
+    
+}
+.chetchic a {position: absolute;
+}
+.chetchic a {
+	left: 80%;
+  top: 35%;
+  width: 100%;
+  height: 100%;
+}
