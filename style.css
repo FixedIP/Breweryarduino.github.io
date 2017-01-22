@@ -99,40 +99,52 @@ color: lime;}
 #raz a:hover {
   background: rgba(0,255,255,.3);
 }
-#donlad  {
+#download  {
   position: relative;
   display: inline-block;
   clear: both;
 }
-#donlad a {
+#download a {
   position: absolute;
   
 }
-#donlad a:nth-of-type(1) {
+#download a:nth-of-type(1) {
 left: 710px;
   top: 160px;
   width: 117px;
   height: 20px;
 }
-#donlad a:nth-of-type(2) {
+#download a:nth-of-type(2) {
   left: 443px;
   top: 225px;
   width: 370px;
   height: 20px;
 }
-#donlad a:nth-of-type(3) {
+#download a:nth-of-type(3) {
   left: 493px;
   top: 245px;
   width: 355px;
   height: 20px;
 }
-#donlad a:nth-of-type(4) {
+#download a:nth-of-type(4) {
   left: 419px;
   top: 335px;
   width: 210px;
   height: 66px;
 }
-#donlad a:hover {
+#download a:nth-of-type(5) {
+  left: 146px;
+  top: 335px;
+  width: 212px;
+  height: 66px;
+}
+#download a:nth-of-type(6) {
+  left: 683px;
+  top: 335px;
+  width: 192px;
+  height: 66px;
+}
+#download a:hover {
   background: rgba(0,255,255,.3);
 }
 #ali  {
