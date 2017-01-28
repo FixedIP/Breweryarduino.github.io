@@ -216,3 +216,6 @@ left: 400px;
   width: 10%;
   height: 40%;
 }
+   .fig {
+    text-align: center; /* Выравнивание по центру */ 
+   }
