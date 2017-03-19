@@ -53,7 +53,14 @@ color: lime;}
   width: 50%;
   height: 50%;
 }
-
+.button p {position: absolute;
+}
+.button p {
+	left: 31%;
+  top: 73%;
+  width: 400;
+  height: 114%;
+}
 .asite {height: 100px;}
 
 
